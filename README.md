@@ -16,3 +16,6 @@ Optical Mark Reader Object for FastReport
 - Orientation: orientation of object cell item
 - StripPosition: position of strip color
 - StripColor: color of strip
+
+# Demo
+![Screenshoot](Demo.PNG)
