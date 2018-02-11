@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/02/11 11:09:07.000.324,=rtl.dcp</Transaction>
+    <Transaction>2018/02/11 13:08:57.872,=rtl.dcp</Transaction>
+    <Transaction>2018/02/11 13:10:31.813,=E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\frxMarkDateTime.pas</Transaction>
+    <Transaction>2018/02/11 13:10:31.825,=E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\frxMarkDateTimeRTTI.pas</Transaction>
+    <Transaction>2018/02/11 13:10:31.837,=E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\frxMarkItem.pas</Transaction>
+    <Transaction>2018/02/11 13:10:31.848,=E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\frxMarkItemRTTI.pas</Transaction>
+    <Transaction>2018/02/11 13:10:31.862,=E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\frxMarkNoItem.pas</Transaction>
+    <Transaction>2018/02/11 13:10:31.874,=E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\frxMarkNoItemRTTI.pas</Transaction>
+    <Transaction>2018/02/11 13:10:31.887,=E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\frxMarkOptionItem.pas</Transaction>
+    <Transaction>2018/02/11 13:10:31.899,=E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\frxMarkOptionItemRTTI.pas</Transaction>
+    <Transaction>2018/02/11 13:10:31.912,=E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\frxMarkUtils.pas</Transaction>
+    <Transaction>2018/02/11 13:36:58.698,E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\frxOMR.dproj=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2018/02/11 13:44:53.556,=fs21.dcp</Transaction>
+    <Transaction>2018/02/11 13:45:00.919,=frx21.dcp</Transaction>
+    <Transaction>2018/02/11 13:53:26.953,=E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\Unit1.pas</Transaction>
+    <Transaction>2018/02/11 13:53:39.538,E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\frxMarkReg.pas=E:\Delphi Lazarus Component\4. Reporting + Cube + Export\FastReport OMR\Unit1.pas</Transaction>
+    <Transaction>2018-02-11 14:28:27.438.pas,C:\Users\SONY NS\Desktop\FastReport OMR\Unit1.pas=C:\Users\SONY NS\Desktop\FastReport OMR\frxMarkEditor.pas</Transaction>
+  </Transactions>
+</BorlandProject>
